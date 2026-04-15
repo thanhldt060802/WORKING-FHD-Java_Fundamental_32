@@ -3,7 +3,7 @@
 
 # 1. Nội quy
 
-- Vào đúng giờ để check in, check out trước khi ra khỏi lớp (nếu xin phép nghỉ sớm cũng phải check out).
+- Vào đúng giờ học, nghỉ học phải xin phép, các trường hợp nghỉ không phép sẽ bị xử lý nặng.
 - Mở camera trong quá trình tham gia buổi học.
 - Trao đổi với giáo viên khi gặp khuất mắt.
 
@@ -49,12 +49,12 @@
 
 # 5. Bài tập
 
-- Bài tập trên web FHD ([LINK]()).
+- Bài tập trên web FHD ([LINK](https://fullhousedev.com/contest/java32)).
 - Bài tập trên web Notion ([LINK](https://www.notion.so/Exercise-171e3c27ef37812a9754fb9190421d82?pvs=21)).
 
 # 6. Tham khảo mở rộng
 
-- Java Fundamental (Advanced): ([LINK](https://local-tip-3d2.notion.site/Advanced-Skill-2c5e3c27ef3780149859d3f5a0cba2a9?pvs=74)).
+- Java Fundamental (Advanced) ([LINK](https://local-tip-3d2.notion.site/Advanced-Skill-2c5e3c27ef3780149859d3f5a0cba2a9?pvs=74)).
 - Data Strutures And Algorithms ([LINK](https://local-tip-3d2.notion.site/Data-Strutures-And-Algorithms-2c5e3c27ef3780ba91a6fce38797ecd9?pvs=73)).
 - Java Desktop App - Swing ([LINK](https://local-tip-3d2.notion.site/Java-Desktop-App-Swing-2c4e3c27ef37801aa865c29759a4ee20?pvs=74)).
 - Java Web App - Servlet ([LINK](https://local-tip-3d2.notion.site/Java-Web-App-Servlet-2c4e3c27ef3780889449cbc60a37dba1?pvs=74)).
