@@ -41,6 +41,10 @@
 
 ## 4.1. Cơ bản ([LINK](https://local-tip-3d2.notion.site/1-Basic-2efe3c27ef37801fab6ff01bdacb4b70))
 
+- Buổi 01 (20/04): Làm quen với Java.
+    - Bài 1.2: Lệnh in ra màn hình.
+    - Bài 1.3: Kiểu dữ liệu và biến.
+
 ## 4.2. Hướng đối tượng ([LINK](https://local-tip-3d2.notion.site/2-Object-Oriented-Programming-2efe3c27ef37805ca0cfd9bea0203de9))
 
 ## 4.3. Hệ cơ sở dữ liệu MySQL ([LINK](https://local-tip-3d2.notion.site/3-MySQL-2efe3c27ef3780058ee5e0f49526307e))
