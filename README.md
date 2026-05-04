@@ -47,6 +47,8 @@
 - Buổi 02 (29/04): Làm quen với Java (tt).
     - Bài 1.3: Kiểu dữ liệu và biến (tt).
     - Bài 1.4: Ép kiểu dữ liệu.
+- Buổi 03 (04/05): Làm quen với Java (tt).
+    - Bài 1.5: Số học và toán tử.
 
 ## 4.2. Hướng đối tượng ([LINK](https://local-tip-3d2.notion.site/2-Object-Oriented-Programming-2efe3c27ef37805ca0cfd9bea0203de9))
 
