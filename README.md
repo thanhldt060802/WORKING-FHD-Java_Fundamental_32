@@ -52,6 +52,8 @@
 - Buổi 04 (06/05): Làm quen với Java (tt).
     - Bài 1.5: Số học và toán tử (tt).
     - Bài 1.6: Lệnh nhập liệu.
+- Buổi 05 (08/05): Câu điều kiện và vòng lặp.
+    - Bài 1.7: Câu điều kiện, vòng lặp và lệnh break, continue.
 
 ## 4.2. Hướng đối tượng ([LINK](https://local-tip-3d2.notion.site/2-Object-Oriented-Programming-2efe3c27ef37805ca0cfd9bea0203de9))
 
