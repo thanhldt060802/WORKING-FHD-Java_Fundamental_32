@@ -54,6 +54,9 @@
     - Bài 1.6: Lệnh nhập liệu.
 - Buổi 05 (08/05): Câu điều kiện và vòng lặp.
     - Bài 1.7: Câu điều kiện, vòng lặp và lệnh break, continue.
+- Buổi 06 (11/05): Câu điều kiện và vòng lặp (tt).
+    - Bài 1.7: Câu điều kiện, vòng lặp và lệnh break, continue (tt).
+    - Bài 1.8: Phương pháp đánh nhãn.
 
 ## 4.2. Hướng đối tượng ([LINK](https://local-tip-3d2.notion.site/2-Object-Oriented-Programming-2efe3c27ef37805ca0cfd9bea0203de9))
 
