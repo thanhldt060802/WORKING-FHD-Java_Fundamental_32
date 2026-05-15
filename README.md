@@ -59,6 +59,8 @@
     - Bài 1.8: Phương pháp đánh nhãn.
 - Buổi 07 (13/05): Chuỗi và mảng.
     - Bài 1.9: Thao tác với chuỗi.
+- Buổi 08 (15/05): Chuỗi và mảng (tt).
+    - Bài 1.10: Thao tác với cấu trúc mảng tĩnh.
 
 ## 4.2. Hướng đối tượng ([LINK](https://local-tip-3d2.notion.site/2-Object-Oriented-Programming-2efe3c27ef37805ca0cfd9bea0203de9))
 
