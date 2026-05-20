@@ -61,6 +61,10 @@
     - Bài 1.9: Thao tác với chuỗi.
 - Buổi 08 (15/05): Chuỗi và mảng (tt).
     - Bài 1.10: Thao tác với cấu trúc mảng tĩnh.
+- Buổi 09 (20/05): Phương thức.
+    - Bài 1.11: Xây dựng phương thức.
+    - Bài 1.12: Ghi chồng phương thức.
+    - Bài 1.13: Bội số trong phương thức.
 
 ## 4.2. Hướng đối tượng ([LINK](https://local-tip-3d2.notion.site/2-Object-Oriented-Programming-2efe3c27ef37805ca0cfd9bea0203de9))
 
