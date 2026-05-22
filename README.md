@@ -65,6 +65,8 @@
     - Bài 1.11: Xây dựng phương thức.
     - Bài 1.12: Ghi chồng phương thức.
     - Bài 1.13: Bội số trong phương thức.
+- Buổi 10 (22/05): Ôn tập.
+    - Sửa bài tập giao buổi 9: Hoàn thiện chuỗi placeholder.
 
 ## 4.2. Hướng đối tượng ([LINK](https://local-tip-3d2.notion.site/2-Object-Oriented-Programming-2efe3c27ef37805ca0cfd9bea0203de9))
 
