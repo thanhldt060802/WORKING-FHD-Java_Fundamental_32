@@ -69,6 +69,8 @@
     - Sửa bài tập giao buổi 9: Hoàn thiện chuỗi placeholder.
 - Buổi 11 (27/05): Phương thức (tt).
     - Bài 1.14: Phương pháp đệ quy.
+- Buổi 12 (29/05): Làm quen với OOP.
+    - Bài 2.2: Lớp và đối tượng.
 
 ## 4.2. Hướng đối tượng ([LINK](https://local-tip-3d2.notion.site/2-Object-Oriented-Programming-2efe3c27ef37805ca0cfd9bea0203de9))
 
