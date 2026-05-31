@@ -1,5 +1,5 @@
 <h1 align="center">JAVA FUNDAMENTAL 32</h1>
-<h3 align="center">(T2, T4, T6 21h)</h3>
+<h3 align="center">(T2, T4 21h)</h3>
 
 # 1. Nội quy
 
