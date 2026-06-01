@@ -71,6 +71,9 @@
     - Bài 1.14: Phương pháp đệ quy.
 - Buổi 12 (29/05): Làm quen với OOP.
     - Bài 2.2: Lớp và đối tượng.
+- Buổi 13 (01/06): Làm quen với OOP (tt).
+    - Bài 2.3: Thao tác với cấu trúc danh sách mảng ArrayList.
+    - Bài 2.4: Bài toàn tìm kiếm và sắp xếp đối tượng.
 
 ## 4.2. Hướng đối tượng ([LINK](https://local-tip-3d2.notion.site/2-Object-Oriented-Programming-2efe3c27ef37805ca0cfd9bea0203de9))
 
