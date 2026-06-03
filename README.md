@@ -74,6 +74,8 @@
 - Buổi 13 (01/06): Làm quen với OOP (tt).
     - Bài 2.3: Thao tác với cấu trúc danh sách mảng ArrayList.
     - Bài 2.4: Bài toàn tìm kiếm và sắp xếp đối tượng.
+- Buổi 14 (03/06): Bốn tính chất trong OOP.
+    - Bài 2.5: Tính chất đóng gói trong OOP - Encapsulation.
 
 ## 4.2. Hướng đối tượng ([LINK](https://local-tip-3d2.notion.site/2-Object-Oriented-Programming-2efe3c27ef37805ca0cfd9bea0203de9))
 
