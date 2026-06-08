@@ -1,0 +1,29 @@
+Person {
+    public Person(String id, String name) {
+		this.id = id;
+		this.name = name;
+		System.out.println("Person(id, name) is created");
+	}
+}
+
+Student_A1 {
+    public Student_A1() {
+		this("Unknown", "Unknown");
+		System.out.println("Student_A1() is created");
+	}
+
+	public Student_A1(String id, String name) {
+		super(id, name);
+		System.out.println("Student_A1(id, name) is created");
+	}
+}
+
+{
+    public Student_A1() {
+		this.id = id;
+		this.name = name;
+		System.out.println("Person(id, name) is created");
+		System.out.println("Student_A1(id, name) is created");
+		System.out.println("Student_A1() is created");
+	}
+}

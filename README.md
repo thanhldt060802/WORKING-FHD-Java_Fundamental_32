@@ -76,6 +76,8 @@
     - Bài 2.4: Bài toàn tìm kiếm và sắp xếp đối tượng.
 - Buổi 14 (03/06): Bốn tính chất trong OOP.
     - Bài 2.5: Tính chất đóng gói trong OOP - Encapsulation.
+- Buổi 15 (08/06): Bốn tính chất trong OOP (tt).
+    - Bài 2.6: Tính chất kế thừa trong OOP - Inheritance.
 
 ## 4.2. Hướng đối tượng ([LINK](https://local-tip-3d2.notion.site/2-Object-Oriented-Programming-2efe3c27ef37805ca0cfd9bea0203de9))
 
