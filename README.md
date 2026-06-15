@@ -69,6 +69,9 @@
     - Sửa bài tập giao buổi 9: Hoàn thiện chuỗi placeholder.
 - Buổi 11 (27/05): Phương thức (tt).
     - Bài 1.14: Phương pháp đệ quy.
+
+## 4.2. Hướng đối tượng ([LINK](https://local-tip-3d2.notion.site/2-Object-Oriented-Programming-2efe3c27ef37805ca0cfd9bea0203de9))
+
 - Buổi 12 (29/05): Làm quen với OOP.
     - Bài 2.2: Lớp và đối tượng.
 - Buổi 13 (01/06): Làm quen với OOP (tt).
@@ -84,8 +87,6 @@
 - Buổi 17 (15/06): Ôn tập.
     - Sửa bài tập 05 (Web Notion): Thư viện sách.
     - Sửa bài tập 06 (Web Notion): Từ điển Anh-Việt [Tính kế thừa].
-
-## 4.2. Hướng đối tượng ([LINK](https://local-tip-3d2.notion.site/2-Object-Oriented-Programming-2efe3c27ef37805ca0cfd9bea0203de9))
 
 ## 4.3. Hệ cơ sở dữ liệu MySQL ([LINK](https://local-tip-3d2.notion.site/3-MySQL-2efe3c27ef3780058ee5e0f49526307e))
 
