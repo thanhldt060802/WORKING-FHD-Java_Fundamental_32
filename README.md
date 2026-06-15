@@ -81,6 +81,9 @@
 - Buổi 16 (10/06): Ôn tập.
     - Sửa bài tập 02 (Web Notion): Quản lý sinh viên.
     - Sửa bài tập 03 (Web Notion): Xây dựng lớp Employee - Nhân viên [Tính đóng gói].
+- Buổi 17 (15/06): Ôn tập.
+    - Sửa bài tập 05 (Web Notion): Thư viện sách.
+    - Sửa bài tập 06 (Web Notion): Từ điển Anh-Việt [Tính kế thừa].
 
 ## 4.2. Hướng đối tượng ([LINK](https://local-tip-3d2.notion.site/2-Object-Oriented-Programming-2efe3c27ef37805ca0cfd9bea0203de9))
 

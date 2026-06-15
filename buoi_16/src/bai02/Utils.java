@@ -1,4 +1,4 @@
-package bai2;
+package bai02;
 
 public class Utils {
 
