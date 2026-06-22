@@ -89,6 +89,8 @@
     - Sửa bài tập 06 (Web Notion): Từ điển Anh-Việt [Tính kế thừa].
 - Buổi 18 (03/06): Bốn tính chất trong OOP (tt).
     - Bài 2.8: Tính chất đa hình trong OOP - Polymorphism.
+- Buổi 19 (22/06): Ôn tập.
+    - Sửa bài tập 06 (Web Notion): Từ điển Anh-Việt [Tính kế thừa] (tt).
 
 ## 4.3. Hệ cơ sở dữ liệu MySQL ([LINK](https://local-tip-3d2.notion.site/3-MySQL-2efe3c27ef3780058ee5e0f49526307e))
 
