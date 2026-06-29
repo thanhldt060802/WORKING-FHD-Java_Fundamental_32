@@ -94,6 +94,9 @@
 - Buổi 20 (24/06): Ôn tập + Bốn tính chất trong OOP (tt).
     - Sửa bài tập 08 (Web Notion): Xây dựng mô hình lớp quản lý nhân viên [Tính đa hình].
     - Bài 2.11: Tính chất trừu tượng trong OOP - Abstraction.
+- Buổi 21 (29/06): Bốn tính chất trong OOP (tt) + Interface trong OOP.
+    - Bài 2.11: Tính chất trừu tượng trong OOP - Abstraction (tt).
+    - Bài 2.12: Giao diện tính năng - Interface.
 
 ## 4.3. Hệ cơ sở dữ liệu MySQL ([LINK](https://local-tip-3d2.notion.site/3-MySQL-2efe3c27ef3780058ee5e0f49526307e))
 
