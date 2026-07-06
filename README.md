@@ -99,6 +99,10 @@
     - Bài 2.12: Giao diện tính năng - Interface.
 - Buổi 22 (01/07): Interface trong OOP (tt).
     - Bài 2.12: Giao diện tính năng - Interface (tt).
+- Buổi 23 (06/07): Ôn tập.
+    - Sửa bài tập 09 (Web Notion): Quản lý nhân viên [Tính đa hình].
+    - Sửa bài tập 10 (Web Notion): Xây dưng mô hình lớp các phương thức thanh toán [Tính trừu tượng].
+    - Sửa bài tập 12 (Web Notion): Máy rút tiền tự động.
 
 ## 4.3. Hệ cơ sở dữ liệu MySQL ([LINK](https://local-tip-3d2.notion.site/3-MySQL-2efe3c27ef3780058ee5e0f49526307e))
 
