@@ -1,0 +1,4 @@
+tanthanh, 12345678, 500
+hoangphuc, 123AA321, 500
+hoangtam, def123xyz, 200
+minhduc, 27112008, 300
