@@ -111,6 +111,9 @@
 - Buổi 25 (13/07): Ôn tập.
     - Sửa bài tập 12 (Web Notion): Máy rút tiền tự động (tt).
     - Bài 2.13: Sắp xếp đối tượng sử dụng Comparable interface và Comparator interface.
+- Buổi 26 (20/07): Tham số kiểu.
+    - Bài 2.18: Lập trình tham số kiểu.
+    - Bài 2.19: Tham số kiểu mở rộng.
 
 ## 4.3. Hệ cơ sở dữ liệu MySQL ([LINK](https://local-tip-3d2.notion.site/3-MySQL-2efe3c27ef3780058ee5e0f49526307e))
 
