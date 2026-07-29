@@ -117,6 +117,10 @@
 - Buổi 27 (22/07): Lớp lồng nhau.
     - Bài 2.20: Lớp lồng nhau.
     - Bài 2.21: Cú pháp Lambda và Method Reference.
+- Buổi 27 (29/07): Collection framework.
+    - Bài 2.22: Tổng quan về Collection framework.
+    - Bài 2.23: Cách dùng các cấu trúc thuộc giao diện List.
+    - Bài 2.24: Cách dùng các cấu trúc thuộc giao diện Queue.
 
 ## 4.3. Hệ cơ sở dữ liệu MySQL ([LINK](https://local-tip-3d2.notion.site/3-MySQL-2efe3c27ef3780058ee5e0f49526307e))
 
