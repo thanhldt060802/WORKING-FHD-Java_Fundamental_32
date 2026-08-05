@@ -125,6 +125,10 @@
     - Bài 2.24: Cách dùng các cấu trúc thuộc giao diện Queue (tt).
     - Bài 2.25: Cách dùng các cấu trúc thuộc giao diện Set.
     - Bài 2.26: Cách dùng các cấu trúc thuộc giao diện Map.
+- Buổi 30 (05/08): Stream API.
+    - Bài 2.27: Tổng quan về Stream API.
+    - Bài 2.28: Các giao diện hỗ trợ tính năng đặc trưng của Stream.
+    - Bài 2.29: Các tính năng đặc trưng của Stream.
 
 ## 4.3. Hệ cơ sở dữ liệu MySQL ([LINK](https://local-tip-3d2.notion.site/3-MySQL-2efe3c27ef3780058ee5e0f49526307e))
 
