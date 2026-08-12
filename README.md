@@ -129,6 +129,8 @@
     - Bài 2.27: Tổng quan về Stream API.
     - Bài 2.28: Các giao diện hỗ trợ tính năng đặc trưng của Stream.
     - Bài 2.29: Các tính năng đặc trưng của Stream.
+- Buổi 31 (12/08): Stream API (tt).
+    - Bài 2.29: Các tính năng đặc trưng của Stream (tt).
 
 ## 4.3. Hệ cơ sở dữ liệu MySQL ([LINK](https://local-tip-3d2.notion.site/3-MySQL-2efe3c27ef3780058ee5e0f49526307e))
 
