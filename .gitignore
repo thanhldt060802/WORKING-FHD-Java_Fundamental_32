@@ -10,21 +10,17 @@
 *.ctxt
 hs_err_pid*
 
-# Build output
-/bin/
-/build/
-/out/
-/target/
-/dist/
-/.gradle/
-/.mvn/wrapper/maven-wrapper.jar
+### Build output ###
+bin/
+build/
+out/
+target/
+dist/
+.gradle/
+.mvn/wrapper/maven-wrapper.jar
 
 ### IntelliJ IDEA ###
 .idea/
-*.iml
-*.ipr
-*.iws
-out/
 
 ### Eclipse ###
 .project
@@ -36,17 +32,17 @@ out/
 .recommenders
 
 ### NetBeans ###
-/nbproject/private/
-/nbbuild/
-/dist/
-/nbdist/
-/.nb-gradle/
+nbproject/private/
+nbbuild/
+nbdist/
+.nb-gradle/
 
 ### VS Code ###
 .vscode/
-/.history/
+.history/
 
 ### OS-specific ###
+
 # Windows
 Thumbs.db
 Desktop.ini
@@ -57,5 +53,5 @@ $RECYCLE.BIN/
 .AppleDouble
 .LSOverride
 
-# Linux
+# Linux / backup files
 *~
