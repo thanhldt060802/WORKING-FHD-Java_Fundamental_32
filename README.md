@@ -136,6 +136,8 @@
 - Buổi 33 (19/08): Stream API (tt), Ôn tập.
     - Bài 2.29: Các tính năng đặc trưng của Stream (tt).
     - Sửa bài tập 16 (Web Notion): Xử lý dữ liệu dùng Collection và Stream.
+- Buổi 34 (21/08): Ôn tập.
+    - Sửa bài tập 16 (Web Notion): Xử lý dữ liệu dùng Collection và Stream (tt).
 
 ## 4.3. Hệ cơ sở dữ liệu MySQL ([LINK](https://local-tip-3d2.notion.site/3-MySQL-2efe3c27ef3780058ee5e0f49526307e))
 
